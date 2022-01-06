@@ -1,3 +1,3 @@
 # Simple Calculator by React JS
 
-<img src="Calculator-by-React-JS/calculator.JPG" alt="images" width="800" height="600">
+<img src="https://github.com/amir-sbg/Calculator-by-React-JS/blob/master/calculator.JPG?raw=true" alt="images" width="800" height="600">
